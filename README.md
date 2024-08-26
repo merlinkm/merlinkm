@@ -13,6 +13,9 @@
 
 <!-- [![merlinkm's GitHub | Stats](https://stats.quira.sh/merlinkm/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=merlinkm) -->
 
+# 💫 About Me:
+I am a skilled full stack web developer with expertise across various technology stacks. As a self-taught professional, I've developed a versatile skill set that empowers me to build robust and efficient web applications. My commitment to ongoing learning and professional development keeps me at the forefront of the latest tools and techniques, enabling me to deliver innovative solutions. Driven by a passion for coding and problem-solving, I approach each project with a blend of creativity and efficiency, always striving to exceed expectations.<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
